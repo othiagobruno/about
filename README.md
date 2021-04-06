@@ -13,4 +13,4 @@ I'm a {backend, frontend and mobile} developer. Passionate about new technologie
 * Frontend => ReactJs | Vue | NextJs | TypeScript.
 * Mobile => React Native | Flutter | Swift
 * Backend => NodeJs, AdonisJs, Express, TypeScript | PHP | Dart
-* Database => MySQL, PostgresSQL, MongoDB | TypeORM, Sequelize, KNex
+* Database => MySQL, PostgreSQL, MongoDB | TypeORM, Sequelize, KNex
