@@ -14,3 +14,5 @@ I'm a {backend, frontend and mobile} developer. Passionate about new technologie
 * Mobile => React Native | Flutter | Swift
 * Backend => NodeJs, AdonisJs, Express, TypeScript | PHP | Dart
 * Database => MySQL, PostgreSQL, MongoDB | TypeORM, Sequelize, KNex
+
+![](https://komarev.com/ghpvc/?username=othiagobruno)
