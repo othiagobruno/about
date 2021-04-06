@@ -7,3 +7,10 @@
 ### About me
 
 I'm a {backend, frontend and mobile} developer. Passionate about new technologies, I love music, and I am a lover of photography.
+
+
+### Stacks
+Frontend => ReactJs | Vue | NextJs | TypeScript.
+Mobile => React Native | Flutter | Swift
+Backend => NodeJs, AdonisJs, Express, TypeScript | PHP | Dart
+Database => MySQL, PostgresSQL, MongoDB | TypeORM, Sequelize, KNex
