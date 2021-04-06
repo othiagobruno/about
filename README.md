@@ -9,10 +9,21 @@
 I'm a {backend, frontend and mobile} developer. Passionate about new technologies, I love music, and I am a lover of photography.
 
 
-### Stacks
-* Frontend => ReactJs | Vue | NextJs | TypeScript.
-* Mobile => React Native | Flutter | Swift
-* Backend => NodeJs, AdonisJs, Express, TypeScript | PHP | Dart
-* Database => MySQL, PostgreSQL, MongoDB | TypeORM, Sequelize, KNex
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=othiagobruno&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=othiagobruno&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=othiagobruno)
